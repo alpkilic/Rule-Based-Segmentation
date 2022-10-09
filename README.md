@@ -10,8 +10,8 @@ The data set contains the prices of the products sold by an international game c
 
 Features:
 
-	PRICE – The amount of the customer's expenditure
-	SOURCE - The type of device to which the customer is connected
-	SEX – The gender of the client
-	COUNTRY – Customer's country
-	AGE – The age of the customer
+PRICE – The amount of the customer's expenditure	
+SOURCE - The type of device to which the customer is connected
+SEX – The gender of the client	
+COUNTRY – Customer's country
+AGE – The age of the customer
